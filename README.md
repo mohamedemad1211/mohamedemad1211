@@ -18,7 +18,7 @@
 - 🎓 B.Sc. in Cybersecurity & Digital Forensics – Faculty of Computers & AI, Benha University  
 - 🚀 Always improving and learning new technologies and design principles  
 - 🌍 Based in Egypt 🇪🇬  
-- 🎯 Goal: Become a top-tier backend engineer and cybersecurity specialist  
+ 
 
 ---
 
